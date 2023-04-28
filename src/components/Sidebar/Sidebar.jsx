@@ -1,7 +1,7 @@
 import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
 import { logoutUserRedux } from '../../reducers/loginSlice'
-import './sidebar.css'
+import './Sidebar.css'
 
 
 
