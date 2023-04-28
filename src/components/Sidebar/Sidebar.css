@@ -1,0 +1,31 @@
+.sidebar{
+  width: 13rem;
+  border-bottom: 2px solid rgb(87, 85, 85);
+  border-left: 2px solid rgb(87, 85, 85);
+  border-top: 2px solid rgb(87, 85, 85);
+  border-right: 2px solid rgb(87, 85, 85);
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  border-radius: 7px;
+  height: 100vh;
+  font-family: 'Segoe UI';
+  background-color: #212A3E;
+  color: #F1F6F9;
+  font-size: 17px;
+}
+
+.list:hover{
+  box-shadow: 10px gray;
+}
+.sidebar .sidebar-list{
+  list-style: none;
+  padding: 1rem 2rem;
+}
+
+.sidebar .list{
+  margin-bottom: 1rem;
+  cursor: pointer !important;
+}
+

@@ -1,0 +1,17 @@
+.flex-container{
+  display: flex;
+}
+
+.content-dashboard{
+  width: 100%;
+  border-bottom: 2px solid rgb(87, 85, 85);
+  border-left: 2px solid rgb(87, 85, 85);
+  border-top: 2px solid rgb(87, 85, 85);
+  border-right: 2px solid rgb(87, 85, 85);
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  border-radius: 7px;
+  background-color: white;
+}
